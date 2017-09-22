@@ -9,5 +9,5 @@ Instructions
 
 Go to public folder directory and execute:
 ```
-git clone https://github.com/doxtu/icop.git
+git clone https://github.com/doxtu/icop
 ```
